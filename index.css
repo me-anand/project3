@@ -1,0 +1,33 @@
+
+
+.contain-product{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product{
+    margin: 10px;
+    width: 250px;
+    height: 450px;
+    background-color: white;
+    box-shadow: 1px 1px 10px grey;
+}
+
+
+
+.wrap-img{
+    display: flex;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid;
+} 
+
+.wrap-img img{
+    width: 100%;
+    object-fit: contain;
+}
+.about{
+    padding: 50px;
+    padding-top: 0;
+    
+}
