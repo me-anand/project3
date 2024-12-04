@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kerala Tourism</title>
+</head>
+<body>
+    <header>
+        <div>
+            <img src="./images/logo.png" alt="Logo" width="150" >
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About Kerala</a></li>
+                <li><a href="#destinations">Top Destinations</a></li>
+                <li><a href="#districts">Districts</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h1>Come and Enjoy Our Culture</h1>
+            <a href="learnmore.html">Learn More</a>
+            <a href="#contact">Contact Us</a>
+        </section>
+
+        <section id="destinations">
+            <h1>Top Destinations</h1>
+            <article>
+                <figure>
+                    <img src="" alt="">
+                    <figcaption>Alappuzha</figcaption>
+                </figure>
+                <p>Lorem ipsum, dolor sit amet consectetur 
+                    adipisicing elit. Ipsa doloremque numquam 
+                    doloribus sint reprehenderit placeat in 
+                    iste blanditiis quaerat earum amet totam, velit laboriosam obcaecati dolore iure accusamus sapiente deserunt!</p>
+            </article>
+            <!-- Add 3 more destinations -->
+        </section>
+        <!-- Kerala map and About Kerala -->
+         <!-- Districts - ol and a tag -->
+          <!-- Contact Us  form -->
+           <!-- fieldset, legend -->
+            <!-- Add basic validations -->
+    </main>
+    <footer>
+        
+    </footer>
+
+
+    
+</body>
+</html>
